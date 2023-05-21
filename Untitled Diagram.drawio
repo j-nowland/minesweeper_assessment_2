@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T01:41:48.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JWETIy33qF-nDT_Nu0wu" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T01:46:39.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="j3eYNqWPqlsBHP4XyZWI" version="21.3.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="794" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="Not succesful" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gAxutsyjqT64aXLCJyy5-0" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gAxutsyjqT64aXLCJyy5-28" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -29,7 +29,7 @@
           <mxGeometry x="160" y="140" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;User asked to reiterate numbers, or type &#39;end&#39; to end&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="65" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry x="0.3714" y="150" relative="1" as="geometry">
@@ -67,7 +67,7 @@
           <mxGeometry x="175" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gAxutsyjqT64aXLCJyy5-7" value="User asked if they would like to reveal a cell (type &#39;reveal&#39;), flag a cell (type &#39;flag&#39;), or end the game (type &#39;end&#39;)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gAxutsyjqT64aXLCJyy5-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,20 +75,23 @@
             <mxPoint x="410" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gAxutsyjqT64aXLCJyy5-10" value="If user input is processed that the would like to reveal a cell,&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="gAxutsyjqT64aXLCJyy5-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gAxutsyjqT64aXLCJyy5-10" target="gAxutsyjqT64aXLCJyy5-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gAxutsyjqT64aXLCJyy5-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gAxutsyjqT64aXLCJyy5-7">
+        <mxCell id="gAxutsyjqT64aXLCJyy5-10" value="If user input &#39;reveal&#39; is processed&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gAxutsyjqT64aXLCJyy5-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.906;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gAxutsyjqT64aXLCJyy5-7" target="gAxutsyjqT64aXLCJyy5-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="60" as="sourcePoint" />
-            <mxPoint x="280" y="110" as="targetPoint" />
+            <mxPoint x="370" y="180" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gAxutsyjqT64aXLCJyy5-16" value="Game &#39;main&#39; function ends and loop finishes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gAxutsyjqT64aXLCJyy5-18" value="If user input is processed that they would like to flag a cell &amp;amp; that cell is hidden" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gAxutsyjqT64aXLCJyy5-18" value="If user input is processed that they would like to flag a cell" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="170" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gAxutsyjqT64aXLCJyy5-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="gAxutsyjqT64aXLCJyy5-18">
@@ -97,7 +100,7 @@
             <mxPoint x="560" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gAxutsyjqT64aXLCJyy5-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7">
+        <mxCell id="gAxutsyjqT64aXLCJyy5-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="gAxutsyjqT64aXLCJyy5-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="150" as="sourcePoint" />
             <mxPoint x="520" y="100" as="targetPoint" />
@@ -126,6 +129,34 @@
               <mxPoint x="230" y="-210" />
               <mxPoint x="230" y="-200" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gAxutsyjqT64aXLCJyy5-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="gAxutsyjqT64aXLCJyy5-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="210" as="sourcePoint" />
+            <mxPoint x="690" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gAxutsyjqT64aXLCJyy5-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="gAxutsyjqT64aXLCJyy5-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="160" as="sourcePoint" />
+            <mxPoint x="500" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gAxutsyjqT64aXLCJyy5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gAxutsyjqT64aXLCJyy5-0" target="gAxutsyjqT64aXLCJyy5-28">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="280" y="85" as="sourcePoint" />
+            <mxPoint x="400" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gAxutsyjqT64aXLCJyy5-28" value="iF Not succesful" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gAxutsyjqT64aXLCJyy5-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gAxutsyjqT64aXLCJyy5-10" target="gAxutsyjqT64aXLCJyy5-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="110" as="sourcePoint" />
+            <mxPoint x="500" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
